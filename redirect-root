@@ -1,0 +1,15 @@
+<!-- redirect-root/index.html -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="refresh" content="0; url=https://www.example.com" />
+  <script>
+    window.location.href = "https://www.example.com";
+  </script>
+  <title>页面跳转中...</title>
+</head>
+<body>
+  正在跳转到 <a href="https://www.example.com">https://www.example.com</a> ...
+</body>
+</html>
