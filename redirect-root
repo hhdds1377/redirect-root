@@ -3,13 +3,13 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8" />
-  <meta http-equiv="refresh" content="0; url=https://www.example.com" />
+  <meta http-equiv="refresh" content="0; url=https://www.fnk12345.com" />
   <script>
-    window.location.href = "https://www.example.com";
+    window.location.href = "https://www.fnk12345.com";
   </script>
   <title>页面跳转中...</title>
 </head>
 <body>
-  正在跳转到 <a href="https://www.example.com">https://www.example.com</a> ...
+  正在跳转到 <a href="https://www.fnk12345.com">https://www.fnk12345.com</a> ...
 </body>
 </html>
